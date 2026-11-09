@@ -12,7 +12,7 @@ public class Pare {
 
         i.start();
         d.start();
-
+ 
         try {
             d.join();
             i.join();
